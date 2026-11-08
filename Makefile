@@ -1,3 +1,3 @@
-DOC      := pps_tax_report
+DOC      := pps_funding_changes
 SECTIONS := report.md
 include tools/docgen/docgen.mk
